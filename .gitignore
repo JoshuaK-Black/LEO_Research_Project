@@ -1,0 +1,17 @@
+# Python cache and envs
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# build artifacts
+build/
+cmake-cache/
+*.egg-info/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# results or temp
+results/
